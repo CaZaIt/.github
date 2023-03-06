@@ -1,7 +1,7 @@
 CaZaIt 프로젝트 🚀
 ===========
 
-![cazait_sticker](./images/cazait_sticker.jpg)
+![cazait_sticker](https://user-images.githubusercontent.com/77970380/223077345-9a7a2f7f-8ab3-42ce-87bd-457b4bc00b71.jpg)
 
 소개 💡
 --
@@ -40,7 +40,7 @@ CaZaIt은 다음과 같은 기술 스택으로 개발되었습니다.
 사용 예시 📷
 -----
 
-![mobile_ex1](./images/example1.jpg)
-![mobile_ex2](./images/example2.jpg)
-![mobile_ex3](./images/example3.jpg)
-![mobile_ex4](./images/example4.jpg)
+![example1](https://user-images.githubusercontent.com/77970380/223077429-122c8604-a0b4-4fca-af85-30adcef6a7e4.jpg)
+![example2](https://user-images.githubusercontent.com/77970380/223077445-8de4a29e-321c-47ac-8d12-412b732728e4.jpg)
+![example3](https://user-images.githubusercontent.com/77970380/223077456-d323c13f-38fc-4653-a305-236bec68bc31.jpg)
+![example4](https://user-images.githubusercontent.com/77970380/223077462-1b3ce206-b693-4598-84f4-92457016a86a.jpg)
