@@ -40,7 +40,4 @@ CaZaIt은 다음과 같은 기술 스택으로 개발되었습니다.
 사용 예시 📷
 -----
 
-![example1](https://user-images.githubusercontent.com/77970380/223077429-122c8604-a0b4-4fca-af85-30adcef6a7e4.jpg)
-![example2](https://user-images.githubusercontent.com/77970380/223077445-8de4a29e-321c-47ac-8d12-412b732728e4.jpg)
-![example3](https://user-images.githubusercontent.com/77970380/223077456-d323c13f-38fc-4653-a305-236bec68bc31.jpg)
-![example4](https://user-images.githubusercontent.com/77970380/223077462-1b3ce206-b693-4598-84f4-92457016a86a.jpg)
+<img src="https://user-images.githubusercontent.com/82876698/217752136-8d4f6a94-2ac4-447c-8760-efabcdc89f42.jpg" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/82876698/217752716-bcec1e75-77d5-473c-8d7c-9e118d70019e.jpg" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/82876698/217752780-b3ffcb63-bf0b-4576-8978-2b780503505d.jpg" width="200" height="450"/> <img src="https://user-images.githubusercontent.com/82876698/217752834-6cec913a-49e8-40b2-8915-0c73a1885eb6.jpg" width="200" height="450"/>
